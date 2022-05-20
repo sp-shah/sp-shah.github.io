@@ -2,14 +2,14 @@
 title:            Shivani Shah
 tagline:          ''
 description:      'Graduate Student at University of Florida'
-url:              https://hyde.getpoole.com
+url:              https://sp-shah.github.io
 baseurl:          ''
 paginate:         5
 
 # About and contact
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+author: 
+  name:           'Shivani Shah'
+  url:            https://twitter.com/shivnshah95
 
 # Gems
 plugins:
