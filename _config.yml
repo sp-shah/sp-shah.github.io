@@ -3,7 +3,7 @@ title:            Shivani Shah
 tagline:          ''
 description:      'Graduate Student at University of Florida'
 url:              https://sp-shah.github.io
-baseurl:          ''
+baseurl:          /
 paginate:         5
 
 # About and contact
