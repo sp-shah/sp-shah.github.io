@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Shivani P. Shah
 tagline:          'Graduate Student at University of Florida'
 description:      'Graduate Student at University of Florida'
-url:              https://sp-shah.github.io/
+url:              https://sp-shah.github.io
 baseurl:          /
 
 author:
